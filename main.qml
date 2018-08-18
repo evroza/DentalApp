@@ -5,9 +5,9 @@ ApplicationWindow {
     id: window
     visible: true
     width: 640
-    height: 480
+    height: 650
     minimumWidth: 640
-    minimumHeight: 480
+    minimumHeight: 650
     title: qsTr("Dentist Orders")
 
     header: ToolBar {

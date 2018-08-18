@@ -9,5 +9,11 @@
         <file>F:/Freelancer/Deepak/DentistApp/MainLogo.png</file>
         <file>F:/Freelancer/Deepak/DentistApp/TickIcon.png</file>
         <file>CustomCheckBox.qml</file>
+        <file>FormFieldRadio.qml</file>
+        <file>CustomRadio.qml</file>
+        <file>CustomTextInput.qml</file>
+        <file>YesTextInput.qml</file>
+        <file>OrderButton.qml</file>
+        <file>BackButton.qml</file>
     </qresource>
 </RCC>
